@@ -3,4 +3,4 @@
 * this app is structured to make it easier to scale the appplication.
 * it uses bcryptJS for hashing paswwords
 * @hapi/joi for input sanitization and validation
-* http-errors packaga is used to handle errors. 
+* http-errors package is used to handle errors. 
